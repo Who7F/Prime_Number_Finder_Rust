@@ -13,4 +13,4 @@ Compile: Navigate to the folder. In the command line `rustc main.rs`
 
 How to run: Navigate to the folder. In the command line `\main`
 
-Authors: Willaim Hoggins - will be romoved once this this has been marked
+Authors: Who7F
